@@ -3,5 +3,11 @@
 
 #include <iostream>
 
-std::cout << "Hello World\n" ; 
+int main(  )
+{
+
+	std::cout << "hello world\n" ; 
+
+
+} ; 
 
