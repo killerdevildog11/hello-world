@@ -6,8 +6,9 @@
 int main(  )
 {
 
+	int x ; 
 	std::cout << "hello world\n" ; 
-
+	std::cin >> x ; 
 
 } ; 
 
